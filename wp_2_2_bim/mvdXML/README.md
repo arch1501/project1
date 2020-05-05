@@ -1,7 +1,7 @@
 **mvdXML**
   
 External link  
-[FZKViewer](https://bwsyncandshare.kit.edu/dl/fiTHtzzWgV2PPDz8fMhXFE8w/FZKViewer-5.5_Build-1335.zip) (contact: andreas.geiger@kit.edu)   
+[FZKViewer V5.5 - Build 1335](https://bwsyncandshare.kit.edu/dl/fiTHtzzWgV2PPDz8fMhXFE8w/FZKViewer-5.5_Build-1335.zip) (contact: andreas.geiger@kit.edu)   
 
 **mvdXML rules**   
 
